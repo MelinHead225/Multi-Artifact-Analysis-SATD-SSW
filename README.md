@@ -1,5 +1,8 @@
-# Multi-Artifact-Analysis-of-Self-Admitted-Technical-Debt-in-Scientific-Software
-Replication package of the research paper "Multi-Artifact Analysis of Self-Admitted Technical Debt in Scientific Software".
+# Multi-Artifact-Analysis-SATD-SSW
+This repository is an artifact from the research paper:
+
+Multi-Artifact Analysis of Self-Admitted Technical Debt in
+Scientific Software.
 
 Context: Self-admitted technical debt (SATD) occurs when develop-
 ers explicitly acknowledge shortcuts or compromises in software, of-
@@ -33,3 +36,5 @@ dataset, classification analysis, and practioner validation results
 provide the first formal multi-artifact perspective on scientific debt,
 highlighting the need for tailored SATD detection approaches in
 SSW.
+
+For any questions or inquires please reach out to ericmelin@u.boisestate.edu.
